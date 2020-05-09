@@ -97,7 +97,7 @@ class WyzeApi():
                 "app_version":"2.6.62",
                 "app_ver":"com.hualai.WyzeCam___2.6.62",
                 "sc":"9f275790cab94a72bd206c8876429f3c",
-                "ts": datetime.datetime.now().strftime("%s"),
+                "ts": datetime.datetime.now().strftime("%S"),
                 "sv":"9d74946e652647e9b6c9d59326aef104",
                 "access_token": self._access_token,
                 "phone_id": self._device_id,
